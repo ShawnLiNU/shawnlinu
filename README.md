@@ -14,7 +14,7 @@
 
 #### Get in Touch
 
-🌐 [shawnlinu.github.io](https://shawnlinu.github.io)  
+🌐 [shawnlinu.github.io](https://shawnlinu.github.io)
 🎓 [Google Scholar](https://scholar.google.com/citations?user=rO-TRKMAAAAJ)
 💼 [LinkedIn](https://linkedin.com/in/xian-shawn-l-51034b135)
 📫 x.li1@northeastern.edu

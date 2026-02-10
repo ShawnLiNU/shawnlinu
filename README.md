@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi, I'm Xian Li 👋
 
-<!--
-**ShawnLiNU/shawnlinu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Assistant Teaching Professor** in Electrical and Computer Engineering at [Northeastern University](https://ece.northeastern.edu/) — Seattle
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Ph.D. in Mechanical Engineering — Michigan Technological University  
+🔬 Postdoc in Computer & Information Science — University of Pennsylvania  
+🏫 Former Robotics Instructor — University of Virginia
+
+#### Research Interests
+
+🤖 Robotics · 🧑‍💻 Human–Computer Interaction · ⌚ Wearable & Cyber-Physical Systems · 🏥 Smart Health Technologies · 🚗 Mobile Robotics · 📡 Robot Sensing & Navigation
+
+#### Get in Touch
+
+🌐 [shawnlinu.github.io](https://shawnlinu.github.io)  
+📫 x.li1@northeastern.edu
+
+<!-- Replace with your actual email and add more links as needed -->
+<!-- 🎓 [Google Scholar](https://scholar.google.com/citations?user=rO-TRKMAAAAJ) -->
+<!-- 💼 [LinkedIn](https://linkedin.com/in/xian-shawn-l-51034b135) -->
